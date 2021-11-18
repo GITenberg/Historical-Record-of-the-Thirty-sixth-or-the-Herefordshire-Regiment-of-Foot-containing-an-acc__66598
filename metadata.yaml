@@ -1,0 +1,40 @@
+_repo: Historical-Record-of-the-Thirty-sixth-or-the-Herefordshire-Regiment-of-Foot-containing-an-acc__66598
+_version: 0.0.1
+alternative_title: Historical Record of the 36th Foot
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
+description: ''
+gutenberg_issued: '2021-10-22'
+identifiers:
+  gutenberg: '66598'
+language: en
+pgterms:marc904:
+- http://babel.hathitrust.org/cgi/pt?id=yale.39002040782675
+- seq=1
+- view=1up
+pgterms:marc905: 20180415222344cannon
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Parker, Furnivall & Parker,1853.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historical records of the British Army
+subjects:
+- !lcsh 'Great Britain. Army. Regiment of Foot, 36th -- History'
+- !lcc 'UA'
+- !lcsh 'Great Britain. Army. Herefordshire Light Infantry -- History'
+- GITenberg
+title: 'Historical Record of the Thirty-sixth, or the Herefordshire Regiment of Foot:
+  containing an account of the formation of the regiment in 1701, and of its subsequent
+  services to 1852'
+url: http://www.gutenberg.org/ebooks/66598
