@@ -1,6 +1,9 @@
 _repo: Historical-Record-of-the-Thirty-sixth-or-the-Herefordshire-Regiment-of-Foot-containing-an-acc__66598
 _version: 0.1.0
 alternative_title: Historical Record of the 36th Foot
+covers:
+- cover_type: archival
+  image_path: 66598-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45414
     wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66598#Historical-Record-of-the-Thirty-sixth-or-the-Herefordshire-Regiment-of-Foot-containing-an-acc_
 gutenberg_issued: '2021-10-22'
 identifiers:
   gutenberg: '66598'
